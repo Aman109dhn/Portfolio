@@ -51,13 +51,13 @@ export const Encryption = () => {
             &nbsp;&nbsp;  
             </li> 
             <li>
-              Bachelor Of technology From Lovely Professional University with mainting a CGPA of 8.5
+              Bachelor Of technology From Lovely Professional University with mainting a CGPA of 7.89
             </li>
             <li>
             &nbsp;&nbsp;  
             </li>           
             <li>
-              Intermidate From Chinmaya Vidyalaya with a percentage of 73.8
+              Intermidate From Saraswati Vidya Mandir with a percentage of 74.6
             </li>
           </ul>
         </div>
