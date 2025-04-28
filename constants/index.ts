@@ -102,7 +102,7 @@ export const SOCIALS = [
   {
     name: "Twitter",
     icon: RxTwitterLogo,
-    link: "https://x.com/kumar_sonu56850",
+    link: "https://x.com",
   },
 ] as const;
 
@@ -288,17 +288,17 @@ export const FOOTER_DATA = [
       {
         name: "Cloud Computing",
         icon: FaYoutube,
-        link: "https://drive.google.com/file/d/1Wr0P_Y9RVyO_ZI07nU9NVoTewpyfc8q0/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/1iujC6kDqfRS3C3_RL7VJbE-aSRJkfuUa/view?usp=drive_link",
       },
       {
         name: "Data Analysis with Tableau",
         icon: RxGithubLogo,
-        link: "https://drive.google.com/file/d/1TfbFQwcW5sdpmMYseoB3ujWz3oPwnKum/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/16v7sMoiyDMX6twXCqMYyBwuQb4LzXEIt/view?usp=drive_link",
       },
       {
         name: "Excel Skills for Business Essentials",
         icon: RxDiscordLogo,
-        link: "https://drive.google.com/file/d/1DBwn0LnXe-sdQOR_T5rvQkl3ew1UV_In/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/1i5EUAr_7pdrq32pAsJZcHZxE21KoGR2V/view?usp=drive_link",
       },
     ],
   },
@@ -313,12 +313,12 @@ export const FOOTER_DATA = [
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://x.com/kumar_sonu56850",
+        link: "https://x.com",
       },
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://www.linkedin.com/in/sonu-kumar-53046a252/",
+        link: "https://www.linkedin.com/in/upadhyay-aman1/",
       },
     ],
   },
@@ -328,17 +328,17 @@ export const FOOTER_DATA = [
       {
         name: "Video CV",
         icon: null,
-        link: "https://www.youtube.com/shorts/FPCFAIhWnok",
+        link: "https://youtube.com/shorts/5iy01UsDouU",
       },
       {
         name: "Explore My projects",
         icon: null,
-        link: "https://github.com/sonukumarbksce1204",
+        link: "https://github.com/Aman109dhn",
       },
       {
         name: "Contact Me",
         icon: null,
-        link: "https://mail.google.com/mail/?view=cm&fs=1&to=sonukumarbksce1204@gmail.com&su=Hello%20There&body=I%20hope%20you%20are%20doing%20well.",
+        link: "https://mail.google.com/mail/?view=cm&fs=1&to=aman109dhn@gmail.com&su=Hello%20There&body=I%20hope%20you%20are%20doing%20well.",
       },
     ],
   },
@@ -360,7 +360,7 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://drive.google.com/file/d/1DzZFDHKOWbmkas1EMWT9Gp6hHf941aSX/view?usp=drive_link",
+  sourceCode: "https://drive.google.com/file/d/13jePUA0DG0OYaMA1UFen1rYH6MLPQrAW/view?usp=drive_link",
 };
 
 export const CERTIFICATE = [
@@ -369,7 +369,7 @@ export const CERTIFICATE = [
     description:
       'Learned to build interactive dashboards and perform data visualizations. Applied Tableau tools to analyze datasets and derive actionable insights.',
     image: "/projects/project-1.png",
-    link: "https://github.com/sonukumarbksce1204/ECOMMERCE",
+    link: "https://github.com/Aman109dhn/Mern-Backend",
   },
   {
     title: "Excel Skills for Business Essentials",
